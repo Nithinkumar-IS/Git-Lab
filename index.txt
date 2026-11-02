@@ -1,3 +1,6 @@
 IS
+<<<<<<< HEAD
 My name is Nithin Kumar
 hi
+=======
+>>>>>>> 4a3bec8 (New added command)
